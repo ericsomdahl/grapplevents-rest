@@ -1,6 +1,6 @@
 # grapplevents-rest
 
-FIXME
+Ring backend for REST services consumed by client of grapplevents.com
 
 ## Prerequisites
 
@@ -15,5 +15,5 @@ To start a web server for the application, run:
     lein ring server
 
 ## License
-
-Copyright © 2015 FIXME
+MIT
+Copyright © 2015 ericsomdahl@gmail.com

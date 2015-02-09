@@ -1,11 +1,13 @@
 (ns grapplevents-rest.handler
-  (:require [compojure.core :refer :all]
-            [compojure.route :as route]
-            [ring.middleware.defaults :refer [wrap-defaults site-defaults]]))
+  (:require [liberator.core :refer  [resource defresource]]
+            [ring.middleware.params :refer  [wrap-params]]
+            [compojure.core :refer  [defroutes ANY]]))
 
-(defroutes app-routes
-  (GET "/" [] "Hello World")
-  (route/not-found "Not Found"))
+(defroutes app
+    (ANY "/foo" [] (resource :available-media-types ["text/html"]
+                             :handle-ok (fn [ctx]
+                                          (format "<html>It's %d milliseconds since the beginning of the epoch." 
+                                            (System/currentTimeMillis))))))
+(def handler
+    (-> app wrap-params))
 
-(def app
-  (wrap-defaults app-routes site-defaults))
