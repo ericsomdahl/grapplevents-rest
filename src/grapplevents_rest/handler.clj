@@ -4,10 +4,10 @@
             [compojure.core :refer  [defroutes ANY]]))
 
 (defroutes app
-    (ANY "/foo" [] (resource :available-media-types ["text/html"]
-                             :handle-ok (fn [ctx]
-                                          (format "<html>It's %d milliseconds since the beginning of the epoch." 
-                                            (System/currentTimeMillis))))))
+    (ANY "/" [] (resource :available-media-types ["text/html"]
+                          :handle-ok (fn [ctx]
+                                       (format "<html>It's %d milliseconds since the beginning of the epoch." 
+                                         (System/currentTimeMillis))))))
 (def handler
     (-> app wrap-params))
 
