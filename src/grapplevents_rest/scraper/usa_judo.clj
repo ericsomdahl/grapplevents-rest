@@ -22,16 +22,12 @@
 (def cached-page-events
   (memo/ttl get-page-events :ttl/threshold 60000))
 
-(def event-seq
-  (for [x (range 1 15)
-        :when (utils/not-empty? (cached-page-events x))]
-    x))
-
 (defn get-all-events
-  "Get events harvested from all of the populated pages"
-  []
-  (mapcat cached-page-events event-seq))
-
+  "Get lazy seq of events harvested from all of the populated pages"
+  ([]
+   (get-all-events (cached-page-events 1)))
+  ([l]
+   (cons (first l) (lazy-seq (get-all-events (rest l))))))
 
 
 
