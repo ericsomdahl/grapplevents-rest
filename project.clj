@@ -4,6 +4,7 @@
   :min-lein-version "2.0.0"
   :dependencies [[org.clojure/clojure "1.6.0"]
                  [compojure "1.3.1"]
+                 [org.clojure/core.memoize "0.5.6"]
                  [enlive-helper "0.1.0"]
                  [enlive "1.1.5"]
                  [ring/ring-core "1.3.2"]
