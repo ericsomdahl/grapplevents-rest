@@ -33,7 +33,10 @@
    (let [pg (inc (quot c results-per-page))
          idx (mod c results-per-page)
          l (cached-page-events pg)]
-      (cons (nth l idx) (lazy-seq (get-all-events (inc c)))))))
+      (if (< idx (count l))
+          (cons (nth l idx) (lazy-seq (get-all-events (inc c))))
+          (cons nil (lazy-seq (get-all-events (inc c))))
+         ))))
 
 
 
