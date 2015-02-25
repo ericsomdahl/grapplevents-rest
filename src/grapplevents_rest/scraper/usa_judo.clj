@@ -6,6 +6,9 @@
 ;base url for USA Judo published events
 (def base-url "http://www.teamusa.org/USA-Judo/Events")
 
+;the pages are structured to return 10 results per page
+(def results-per-page 10)
+
 (defn url-by-page
   "Construct a URL for an single page of results"
   [page]
@@ -25,9 +28,12 @@
 (defn get-all-events
   "Get lazy seq of events harvested from all of the populated pages"
   ([]
-   (get-all-events (cached-page-events 1)))
-  ([l]
-   (cons (first l) (lazy-seq (get-all-events (rest l))))))
+   (get-all-events 0))
+  ([c]
+   (let [pg (inc (quot c results-per-page))
+         idx (mod c results-per-page)
+         l (cached-page-events pg)]
+      (cons (nth l idx) (lazy-seq (get-all-events (inc c)))))))
 
 
 
