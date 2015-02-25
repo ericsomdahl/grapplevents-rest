@@ -35,7 +35,7 @@
          l (cached-page-events pg)]
       (if (< idx (count l))
           (cons (nth l idx) (lazy-seq (get-all-events (inc c))))
-          (cons nil (lazy-seq (get-all-events (inc c))))
+          nil
          ))))
 
 
