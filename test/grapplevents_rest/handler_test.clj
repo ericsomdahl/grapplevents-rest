@@ -7,8 +7,8 @@
   (testing "main route"
     (let [response (app (mock/request :get "/"))]
       (is (= (:status response) 200))
-      (is (= (:body response) "Hello World"))))
+      (is (.contains (:body response) "beginning of the epoch")))))
 
-  (testing "not-found route"
-    (let [response (app (mock/request :get "/invalid"))]
-      (is (= (:status response) 404)))))
+;  (testing "not-found route"
+;    (let [response (app (mock/request :get "/invalid"))]
+;      (is (= (:status response) 404)))))
