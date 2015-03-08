@@ -1,0 +1,1555 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+    <meta property="og:url" content="http://www.teamusa.org/USA-Judo/Events" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="USA Judo - Events | Team USA" />
+    <meta property="og:description" content="Events schedule for USA Judo from the USOC official Team USA website." />
+    <meta property="og:image" content="http://www.teamusa.org/~/media/Images/logo/TeamUSALogo.jpg" />
+    <meta property="og:site_name" content="Team USA" />
+    <meta name="description" content="Events schedule for USA Judo from the USOC official Team USA website."/>
+    <meta name="keywords" content=""/>
+    <meta name="teamusa:instance" content="TeamUSA-CD5" />
+
+
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
+<head>
+    <meta http-equiv="Content-Language" content="en" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="/Content/css/main/fonts.css" rel="stylesheet"/>
+<link href="/Content/css/main/usoc.css" rel="stylesheet"/>
+<link href="/Content/css/main/jquery.aw-showcase.gallery.css" rel="stylesheet"/>
+<link href="/Content/css/main/jquery.aw-showcase.carousel.css" rel="stylesheet"/>
+<link href="/Content/css/main/jquery.jscrollpane.css" rel="stylesheet"/>
+
+    <link href="/Content/themes/ui-lightness/jquery-ui-1.8.16.custom.css" rel="stylesheet"/>
+<link href="/Content/css/main/jquery.ui.all.css" rel="stylesheet"/>
+
+    <link href="/Content/css/main/usoc-bootstrap-interior.css" rel="stylesheet"/>
+<link href="/Content/css/main/usoc-bootstrap.css" rel="stylesheet"/>
+
+
+    <script src="/Scripts/modernizr-2.7.2.js"></script>
+
+    <script src="/Scripts/jquery-1.11.1.js"></script>
+<script src="/Scripts/jquery-migrate-1.2.1.js"></script>
+
+ 
+    <script src="/Scripts/jquery-ui-1.10.4.js"></script>
+
+    <script src="/scripts/main/jquery.tweet.js"></script>
+<script src="/scripts/main/jquery.mousewheel.js"></script>
+<script src="/scripts/main/jquery.aw-showcase.js"></script>
+<script src="/scripts/main/jquery.jscrollpane.js"></script>
+
+    <script src="/scripts/main/usoc.js"></script>
+
+    <script src="/scripts/main/google.publisher.js"></script>
+
+
+    <script src="/Scripts/jquery.unobtrusive-ajax.js"></script>
+<script src="/Scripts/jquery.validate.js"></script>
+<script src="/Scripts/jquery.validate.unobtrusive.js"></script>
+
+    <script src="/scripts/form/sc.ajax-form.js"></script>
+<script src="/scripts/form/sc.fields-captcha.js"></script>
+<script src="/scripts/form/sc.fields-date.js"></script>
+<script src="/scripts/form/sc.fields-events-tracking.js"></script>
+<script src="/scripts/form/sc.fields-unobtrusive.js"></script>
+
+
+    <title>USA Judo - Events | Team USA</title>
+
+    <!-- Google Analytics -->
+    <script type='text/javascript'>
+                
+    var _gaq = _gaq || [];
+
+        
+    _gaq.push(['_setAccount', '/USA_Judo/Images/2013/Oct/VetsJudoProgram_SaltLakeCity300x375']);
+    _gaq.push(['_trackPageview']);
+        
+        
+    _gaq.push(['_setAccount', 'UA-33423961-1']);
+    _gaq.push(['_trackPageview']);
+        
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+                    
+</script>
+    <!--// Google Analytics -->
+
+    <!-- Quantcast Tag -->
+    <script type="text/javascript">
+        var _qevents = _qevents || [];
+        (function () {
+            var elem = document.createElement('script');
+            elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+            elem.async = true;
+            elem.type = "text/javascript";
+            var scpt = document.getElementsByTagName('script')[0];
+            scpt.parentNode.insertBefore(elem, scpt);
+        })();
+
+    </script>
+    <!-- End Quantcast tag -->
+
+
+    <!-- Save jQuery variable so it isn't over written by Sitecore's load of jQuery in edit/preview mode -->
+    <script>var my_jquery = jQuery;</script>
+
+
+</head>
+<body style="background: #f1f1f2 url('http://www.teamusa.org/~/media/Images/Backgrounds/background_blue_no_rings_high_fade.png') center top repeat-x;"  >
+    <!-- Restore jQuery variable so it is referenced correctly by later scripts -->
+    <script>jQuery = my_jquery;</script>
+
+    <div id="compatibility-mode-msg">
+        For a better browsing experience please switch your browser out of compatability mode.
+    </div>
+
+    <!-- Facebook Metadata -->
+    
+
+<div id="fb-root"></div>
+<script type="text/javascript">
+  s_events = "";
+</script>
+<script type="text/javascript">
+  (function (d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) { return; }
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+
+    <!--// Facebook Metadata -->
+
+    <header class="navbar navbar-static-top yamm" role="navigation">
+        <div class="white-strip"><span class="invisible">Team USA</span>    </div><!-- /.white-strip-->
+<div class="container">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="/"><img src="/content/images/logos/teamusa-logo-main.png" alt="" /></a>
+    </div><!-- /.navbar-header -->
+    <div class="top-bar">
+        <a href="http://www.att.com" target="_blank" class="sponsor"><img src="/content/images/logos/att-logo.png"></a>
+        <a href="http://action.teamusa.org/page/s/team" target="_blank" class="sign-up small">Sign Up For Team USA Updates</a>
+    </div>
+    <nav class="navbar-collapse collapse">
+
+        <ul class="nav navbar-nav">
+            <li class="dropdown yamm-fw">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">SPORTS</a>
+                <ul class="dropdown-menu">
+                    <li class="dropdown dropdown-submenu">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">SUMMER</a>
+
+<ul class="dropdown-menu row">
+    <li class="col-xs-4">
+        <ul>
+                <li><a href="/USA-Archery" target="_self">USA Archery</a></li>
+                <li><a href="/USA-Badminton" target="_self">USA Badminton</a></li>
+                <li><a href="http://web.usabaseball.com/index.jsp" target="_blank">USA Baseball</a></li>
+                <li><a href="http://www.usabasketball.com/" target="_blank">USA Basketball</a></li>
+                <li><a href="http://www.bowl.com/" target="_blank">USA Bowling</a></li>
+                <li><a href="/USA-Boxing" target="_self">USA Boxing</a></li>
+                <li><a href="/USA-Canoe-Kayak" target="_self">USA Canoe/Kayak</a></li>
+                <li><a href="http://www.usacycling.org/" target="_blank">USA Cycling</a></li>
+                <li><a href="http://www.usadiving.org/" target="_blank">USA Diving</a></li>
+                <li><a href="http://www.usef.org/" target="_self">USA Equestrian</a></li>
+                <li><a href="http://www.usfencing.org" target="_self">USA Fencing</a></li>
+                <li><a href="/USA-Field-Hockey" target="_self">USA Field Hockey</a></li>
+                <li><a href="/USA-Golf" target="_self">USA Golf</a></li>
+        </ul>
+    </li>
+    <li class="col-xs-4">
+        <ul>
+                <li><a href="http://usagym.org/pages/index.html" target="_blank">USA Gymnastics</a></li>
+                <li><a href="/USA-Judo" target="_self">USA Judo</a></li>
+                <li><a href="/USA-Karate" target="_self">USA Karate</a></li>
+                <li><a href="/USA-Modern-Pentathlon" target="_self">USA Modern Pentathlon</a></li>
+                <li><a href="/USA-Racquetball" target="_self">USA Racquetball</a></li>
+                <li><a href="/USA-Roller-Sports" target="_self">USA Roller Sports</a></li>
+                <li><a href="http://www.usrowing.org/index.aspx" target="_blank">USA Rowing</a></li>
+                <li><a href="http://www.usarugby.org" target="_blank">USA Rugby</a></li>
+                <li><a href="http://ussailing.org/" target="_blank">USA Sailing</a></li>
+                <li><a href="http://www.usashooting.org/" target="_blank">USA Shooting</a></li>
+                <li><a href="http://www.ussoccer.com/" target="_blank">US Soccer</a></li>
+                <li><a href="/USA-Softball" target="_self">ASA/USA Softball</a></li>
+                <li><a href="http://www.ussquash.com/" target="_blank">USA Squash</a></li>
+        </ul>
+    </li>
+    <li class="col-xs-4">
+        <ul>
+                <li><a href="http://www.usaswimming.org/" target="_blank">USA Swimming</a></li>
+                <li><a href="/USA-Synchronized-Swimming" target="_self">USA Synchro</a></li>
+                <li><a href="/USA-Table-Tennis" target="_self">USA Table Tennis</a></li>
+                <li><a href="/USA-Taekwondo" target="_self">USA Taekwondo</a></li>
+                <li><a href="/USA-Team-Handball" target="_self">USA Team Handball</a></li>
+                <li><a href="http://www.usta.com/" target="_blank">USA Tennis</a></li>
+                <li><a href="http://www.usatf.org/Home.aspx" target="_blank">USA Track and Field</a></li>
+                <li><a href="http://www.usatriathlon.org/" target="_blank">USA Triathlon</a></li>
+                <li><a href="/USA-Volleyball" target="_self">USA Volleyball</a></li>
+                <li><a href="http://www.usawaterpolo.org/Home.aspx" target="_blank">USA Water Polo</a></li>
+                <li><a href="http://www.usawaterski.org/" target="_blank">USA Water Ski</a></li>
+                <li><a href="/USA-Weightlifting" target="_self">USA Weightlifting</a></li>
+                <li><a href="/USA-Wrestling" target="_self">USA Wrestling</a></li>
+        </ul>
+    </li>
+
+</ul>
+                    </li>
+                    <li class="dropdown dropdown-submenu">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">WINTER</a>
+
+<ul class="dropdown-menu row">
+    <li class="col-xs-4">
+        <ul>
+                <li><a href="/US-Biathlon" target="_self">U.S. Biathlon</a></li>
+                <li><a href="/USA-Bobsled-Skeleton-Federation" target="_self">USA Bobsled and Skeleton </a></li>
+                <li><a href="/USA-Curling" target="_self">USA Curling</a></li>
+                <li><a href="http://www.usfsa.org/" target="_blank">U.S. Figure Skating</a></li>
+                <li><a href="http://www.usahockey.com/" target="_blank">USA Hockey</a></li>
+                <li><a href="/USA-Luge" target="_self">USA Luge</a></li>
+                <li><a href="http://ussa.org/" target="_blank">U.S. Ski and Snowboard</a></li>
+                <li><a href="/US-Speedskating" target="_self">US Speedskating</a></li>
+        </ul>
+    </li>
+
+</ul>
+                    </li>
+                    <li class="dropdown dropdown-submenu">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">U.S. PARALYMPICS</a>
+
+<ul class="dropdown-menu row">
+    <li class="col-xs-4">
+        <ul>
+                <li><a href="/Home/US Paralympics/Sports/Alpine Skiing.aspx" target="_self">Alpine Skiing</a></li>
+                <li><a href="/Home/US Paralympics/Sports/Archery.aspx" target="_self">Archery</a></li>
+                <li><a href="/Home/US Paralympics/Sports/Boccia.aspx" target="_self">Boccia</a></li>
+                <li><a href="/Home/US Paralympics/Sports/Curling.aspx" target="_self">Curling</a></li>
+                <li><a href="/Home/USA Canoe Kayak/Disciplines/Paracanoe" target="_self">Canoe</a></li>
+                <li><a href="/Home/US Paralympics/Sports/Cycling.aspx" target="_self">Cycling</a></li>
+                <li><a href="/Home/US Paralympics/Sports/Equestrian.aspx" target="_self">Equestrian</a></li>
+                <li><a href="/Home/US Paralympics/Sports/Goalball.aspx" target="_self">Goalball</a></li>
+                <li><a href="/Home/US Paralympics/Sports/Judo.aspx" target="_self">Judo</a></li>
+                <li><a href="/Home/US Paralympics/Sports/Nordic Skiing.aspx" target="_self">Nordic Skiing</a></li>
+                <li><a href="/Home/US Paralympics/Sports/Paratriathlon.aspx" target="_self">Paratriathlon</a></li>
+                <li><a href="/Home/US Paralympics/Sports/Powerlifting.aspx" target="_self">Powerlifting</a></li>
+                <li><a href="/Home/US Paralympics/Sports/Rowing.aspx" target="_self">Rowing</a></li>
+        </ul>
+    </li>
+    <li class="col-xs-4">
+        <ul>
+                <li><a href="/Home/US Paralympics/Sports/Sailing.aspx" target="_self">Sailing</a></li>
+                <li><a href="/Home/US Paralympics/Sports/Shooting.aspx" target="_self">Shooting</a></li>
+                <li><a href="/Home/US Paralympics/Sports/Sitting Volleyball.aspx" target="_self">Sitting Volleyball</a></li>
+                <li><a href="/Home/US Paralympics/Sports/Sled Hockey.aspx" target="_self">Sled Hockey</a></li>
+                <li><a href="/Home/US Paralympics/Sports/Soccer.aspx" target="_self">Soccer</a></li>
+                <li><a href="/Home/US Paralympics/Sports/Swimming.aspx" target="_self">Swimming</a></li>
+                <li><a href="/Home/US Paralympics/Sports/Table Tennis.aspx" target="_self">Table Tennis</a></li>
+                <li><a href="/Home/US Paralympics/Sports/Track and Field.aspx" target="_self">Track &amp; Field</a></li>
+                <li><a href="/Home/US Paralympics/Sports/Wheelchair Basketball.aspx" target="_self">Wheelchair Basketball</a></li>
+                <li><a href="/Home/US Paralympics/Sports/Fencing.aspx" target="_self">Wheelchair Fencing</a></li>
+                <li><a href="/Home/US Paralympics/Sports/Wheelchair Rugby.aspx" target="_self">Wheelchair Rugby</a></li>
+                <li><a href="/Home/US Paralympics/Sports/Wheelchair Tennis.aspx" target="_self">Wheelchair Tennis</a></li>
+        </ul>
+    </li>
+
+</ul>
+                    </li>
+                </ul>
+            </li>
+                <li class="divider">|</li>
+                    <li><a class="" target="_self" href="http://www.teamusa.org/Games">GAMES</a></li>
+                <li class="divider">|</li>
+                    <li><a class="" target="_self" href="http://www.teamusa.org/US-Paralympics">U.S. PARALYMPICS</a></li>
+                <li class="divider">|</li>
+                    <li><a class="" target="_self" href="http://www.teamusa.org/US-Olympic-and-Paralympic-Foundation">FOUNDATION</a></li>
+                <li class="divider">|</li>
+                    <li><a class="" target="_self" href="http://www.teamusa.org/News">NEWS</a></li>
+                <li class="divider">|</li>
+                    <li class="dropdown yamm-fw">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">ATHLETES</a>
+                        <ul class="dropdown-menu">
+                                <li class="dropdown dropdown-submenu dropdown-horizontal">
+                                    <a class="" target="_self" href="http://www.teamusa.org/Athletes">TEAM USA ATHLETE BIOS               </a>
+                                </li>
+                                <li class="dropdown dropdown-submenu dropdown-horizontal">
+                                    <a class="" target="_self" href="http://www.teamusa.org/For-Athletes">FOR ATHLETES</a>
+                                </li>
+                        </ul>
+                    </li>
+                <li class="divider">|</li>
+                    <li><a class="" target="_self" href="http://www.teamusa.org/Video">VIDEO</a></li>
+                <li class="divider">|</li>
+                    <li><a class="" target="_self" href="http://www.teamusa.org/About-the-USOC">ABOUT</a></li>
+                <li class="divider">|</li>
+                    <li><a class="" target="_self" href="http://www.teamusa.org/Donate">DONATE</a></li>
+                <li class="divider">|</li>
+                    <li><a class="" target="_blank" href="http://www.teamusashop.com">SHOP</a></li>
+        </ul>
+    </nav><!-- /.nav-collapse -->
+
+
+</div>
+
+<!-- Used to force submenu display on click for touch -->
+<script type="text/javascript">
+    (function ($) {
+        $('ul.dropdown-menu [data-toggle=dropdown]').on('click', function (event) {
+            event.preventDefault();
+            event.stopPropagation();
+            $(this).parent().siblings().removeClass('open');
+            $(this).parent().toggleClass('open');
+        });
+    })(jQuery);
+</script>
+
+    </header>
+
+
+    <div id="content-wrapper" class="container">
+        <div class="row">
+            <div class="pre-body col-xs-12 text-center">
+                
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="ngb-nav yamm">
+
+    <div class="ngb-navheader">
+        <a href="http://www.teamusa.org/USA-Judo">
+            <h1 class="ngb-name">
+                <strong>
+                    <span>USA</span>
+                    Judo
+                </strong>
+            </h1>
+
+            <div class="ngb-icon">
+                <img src="/~/media/USA_Judo/Images/Logo/logohome.jpg?h=160&amp;la=en&amp;w=300" alt="USA Judo logo" width="300" height="160" />
+            </div>
+        </a>
+    </div>
+<div class="ngb navbar">
+
+    <nav id="NgbHeaderMenu" class="navbar-collapse collapse">
+
+        <ul id="dropdownmenu" class="nav navbar-nav">
+
+                    <li class="dropdown yamm-fw">
+                        <a class=" dropdown-toggle" target="_self" href="http://www.teamusa.org/USA-Judo/About-Us" data-title="About" data-toggle="dropdown">About</a>
+
+                        <ul class="dropdown-menu row">
+                            <li class="col-xs-3">
+                                <ul>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/About-Us" data-title="About Us">About Us</a>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/About-Us/National-Office-Staff" data-title="USA Judo Staff">USA Judo Staff</a>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/About-Us/Committees" data-title="Committees">Committees</a>
+                                        </li>
+                                </ul>
+                            </li>
+                            <li class="col-xs-3">
+                                <ul>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/About-Us/Find-A-Club" data-title="Find a Club">Find a Club</a>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/About-Us/Our-Proud-Sponsors" data-title="Our Proud Sponsors">Our Proud Sponsors</a>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/About-Us/State-Organizations" data-title="State Organizations">State Organizations</a>
+                                        </li>
+                                </ul>
+                            </li>
+                            <li class="col-xs-3">
+                                <ul>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/About-Us/Contact-us" data-title="Contact Us">Contact Us</a>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/About-Us/USA-Judo-Hall-of-Fame" data-title="Hall of Fame">Hall of Fame</a>
+                                        </li>
+                                </ul>
+                            </li>
+                            <li class="col-xs-3">
+                                <ul>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/About-Us/Governance" data-title="Governance">Governance</a>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/About-Us/Board-of-Directors" data-title="Board of Directors">Board of Directors</a>
+                                        </li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    </li>
+                    <li class="divider">|</li>
+                    <li class="dropdown yamm-fw">
+                        <a class=" dropdown-toggle" target="_self" href="http://www.teamusa.org/USA-Judo/Features" data-title="News" data-toggle="dropdown">News</a>
+
+                        <ul class="dropdown-menu row">
+                            <li class="col-xs-3">
+                                <ul>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Features" data-title="Featured">Featured</a>
+                                        </li>
+                                </ul>
+                            </li>
+                            <li class="col-xs-3">
+                                <ul>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Results" data-title="Results">Results</a>
+                                        </li>
+                                </ul>
+                            </li>
+                            <li class="col-xs-3">
+                                <ul>
+                                </ul>
+                            </li>
+                            <li class="col-xs-3">
+                                <ul>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    </li>
+                    <li class="divider">|</li>
+                    <li>
+                        <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Events" data-title="Calendar">Calendar</a>
+                    </li>
+                    <li class="divider">|</li>
+                    <li class="dropdown yamm-fw">
+                        <a class=" dropdown-toggle" target="_self" href="http://www.teamusa.org/USA-Judo/Membership" data-title="Membership" data-toggle="dropdown">Membership</a>
+
+                        <ul class="dropdown-menu row">
+                            <li class="col-xs-3">
+                                <ul>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="https://webpoint.usjudo.org/wp/memberships/join.wp" data-title="Join or Renew">Join or Renew</a>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Membership/FAQs" data-title="FAQs">FAQs</a>
+                                        </li>
+                                </ul>
+                            </li>
+                            <li class="col-xs-3">
+                                <ul>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="https://webpoint.usjudo.org/wp15/IntraLock/Login.asp" data-title="Member Login">Member Login</a>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Membership/Promotions" data-title="Promotions">Promotions</a>
+                                        </li>
+                                </ul>
+                            </li>
+                            <li class="col-xs-3">
+                                <ul>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Membership/Member-Benefits" data-title="Member Benefits">Member Benefits</a>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/~/media/USA_Judo/Forms/AAJMApplicationUSAJudo.pdf" data-title="All American Judo Membership">All American Judo Membership</a>
+                                        </li>
+                                </ul>
+                            </li>
+                            <li class="col-xs-3">
+                                <ul>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Safe-Sport-Program" data-title="SafeSport Program">SafeSport Program</a>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Membership/Weekly-Eletter" data-title="Weekly E-letter">Weekly E-letter</a>
+                                        </li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    </li>
+                    <li class="divider">|</li>
+                    <li class="dropdown yamm-fw">
+                        <a class=" dropdown-toggle" target="_self" href="http://www.teamusa.org/USA-Judo/Forms" data-title="Forms" data-toggle="dropdown">Forms</a>
+
+                        <ul class="dropdown-menu row">
+                            <li class="col-xs-3">
+                                <ul>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Forms/Business-Card-Order-Form" data-title="Business Card Order Form">Business Card Order Form</a>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Forms/Insurance-Forms" data-title="Insurance Forms">Insurance Forms</a>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Forms/Referee-Forms" data-title="Referee Forms">Referee Forms</a>
+                                        </li>
+                                </ul>
+                            </li>
+                            <li class="col-xs-3">
+                                <ul>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Forms/Club-Forms" data-title="Club Forms">Club Forms</a>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Forms/Kata-Forms" data-title="Kata Forms">Kata Forms</a>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Forms/Sanctioning-Forms" data-title="Sanctioning Forms">Sanctioning Forms</a>
+                                        </li>
+                                </ul>
+                            </li>
+                            <li class="col-xs-3">
+                                <ul>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Forms/Coach-and-Manager-Forms" data-title="Coach and Manager Form">Coach and Manager Form</a>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Forms/Membership-Forms" data-title="Membership Forms">Membership Forms</a>
+                                        </li>
+                                </ul>
+                            </li>
+                            <li class="col-xs-3">
+                                <ul>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Forms/IJF-Rank-Forms" data-title="IJF Rank Forms">IJF Rank Forms</a>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Forms/Promotions-Forms" data-title="Promotions Forms">Promotions Forms</a>
+                                        </li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    </li>
+                    <li class="divider">|</li>
+                    <li class="dropdown yamm-fw">
+                        <a class=" dropdown-toggle" target="_self" href="" data-title="Athletes" data-toggle="dropdown">Athletes</a>
+
+                        <ul class="dropdown-menu row">
+                            <li class="col-xs-3">
+                                <ul>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Athletes/Juniors" data-title="Juniors">Juniors</a>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Athletes/Team-USA" data-title="Team USA">Team USA</a>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Video" data-title="Videos">Videos</a>
+                                        </li>
+                                </ul>
+                            </li>
+                            <li class="col-xs-3">
+                                <ul>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Athletes/Seniors" data-title="Seniors">Seniors</a>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Athletes/Athlete-Of-The-Month" data-title="Athlete Of The Month">Athlete Of The Month</a>
+                                        </li>
+                                </ul>
+                            </li>
+                            <li class="col-xs-3">
+                                <ul>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Athletes/Masters" data-title="Masters">Masters</a>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Athletes/International-Federation" data-title="International Federation">International Federation</a>
+                                        </li>
+                                </ul>
+                            </li>
+                            <li class="col-xs-3">
+                                <ul>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Athletes/Paralympic" data-title="Paralympic">Paralympic</a>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Safe-Sport-Program" data-title="SafeSport Program">SafeSport Program</a>
+                                        </li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    </li>
+                    <li class="divider">|</li>
+                    <li class="dropdown yamm-fw">
+                        <a class=" dropdown-toggle" target="_self" href="http://www.teamusa.org/USA-Judo/Coaches" data-title="Coaches" data-toggle="dropdown">Coaches</a>
+
+                        <ul class="dropdown-menu row">
+                            <li class="col-xs-3">
+                                <ul>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Coaches/Coach-Development-and-Education-Program" data-title="Coach Development and Education Program">Coach Development and Education Program</a>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Coaches/Education-Articles" data-title="Education Articles">Education Articles</a>
+                                        </li>
+                                </ul>
+                            </li>
+                            <li class="col-xs-3">
+                                <ul>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Coaches/Coaching-Certification-List" data-title="Coaching Certification List">Coaching Certification List</a>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Safe-Sport-Program" data-title="SafeSport Program">SafeSport Program</a>
+                                        </li>
+                                </ul>
+                            </li>
+                            <li class="col-xs-3">
+                                <ul>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Coaches/Coaching-Code" data-title="Coaching Code">Coaching Code</a>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Coaches/Coaches-Dress-Code" data-title="Coaches Dress Code">Coaches Dress Code</a>
+                                        </li>
+                                </ul>
+                            </li>
+                            <li class="col-xs-3">
+                                <ul>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Coaches/Coaching-Forms" data-title="Coaching Forms">Coaching Forms</a>
+                                        </li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    </li>
+                    <li class="divider">|</li>
+                    <li class="dropdown yamm-fw">
+                        <a class=" dropdown-toggle" target="_self" href="http://www.teamusa.org/USA-Judo/Referees" data-title="Referees" data-toggle="dropdown">Referees</a>
+
+                        <ul class="dropdown-menu row">
+                            <li class="col-xs-3">
+                                <ul>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Referees/Referee-Commission" data-title="Referee Commission">Referee Commission</a>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Referees/Referee-Notes" data-title="Referee Notes">Referee Notes</a>
+                                        </li>
+                                </ul>
+                            </li>
+                            <li class="col-xs-3">
+                                <ul>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Referees/Referee-Commission-Policies" data-title="Referee Commission Policies">Referee Commission Policies</a>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Referees/Referee-Program" data-title="Referee Program">Referee Program</a>
+                                        </li>
+                                </ul>
+                            </li>
+                            <li class="col-xs-3">
+                                <ul>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Forms/Referee-Forms" data-title="Referee Forms">Referee Forms</a>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="" data-title="US International and National Referee Listing">US International and National Referee Listing</a>
+                                        </li>
+                                </ul>
+                            </li>
+                            <li class="col-xs-3">
+                                <ul>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Referees/Referee-News" data-title="Referee News">Referee News</a>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Safe-Sport-Program" data-title="SafeSport Program">SafeSport Program</a>
+                                        </li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    </li>
+                    <li class="divider">|</li>
+                    <li>
+                        <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/Video" data-title="Videos">Videos</a>
+                    </li>
+                    <li class="divider">|</li>
+                    <li class="dropdown yamm-fw">
+                        <a class=" dropdown-toggle" target="_self" href="http://www.teamusa.org/USA-Judo/DONATE" data-title="DONATE" data-toggle="dropdown">DONATE</a>
+
+                        <ul class="dropdown-menu row">
+                            <li class="col-xs-3">
+                                <ul>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/DONATE" data-title="Donate">Donate</a>
+                                        </li>
+                                </ul>
+                            </li>
+                            <li class="col-xs-3">
+                                <ul>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/DONATE/2014-USA-Judo-Donors" data-title="2014 Donors">2014 Donors</a>
+                                        </li>
+                                </ul>
+                            </li>
+                            <li class="col-xs-3">
+                                <ul>
+                                        <li class="dropdown">
+                                            <a class="" target="_self" href="http://www.teamusa.org/USA-Judo/DONATE/2013-USA-Judo-Donors" data-title="2013 Donors">2013 Donors</a>
+                                        </li>
+                                </ul>
+                            </li>
+                            <li class="col-xs-3">
+                                <ul>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    </li>
+
+        </ul>
+        <ul class="nav navbar-nav navbar-right" role="search">
+            <li>
+                <form class="navbar-form" role="search">
+                    <div class="form-group">
+                        <input id="nav-search-box" type="text" class="form-control" placeholder="Search" />
+                    </div>
+                    <button type="submit" class="btn btn-default">Submit</button>
+                    <label for="nav-search-box"><span class="sr-only">SEARCH</span><span class="fa fa-search fa-1"></span></label>
+                </form>
+            </li>
+        </ul>
+
+        <script type="text/javascript">
+            jQuery.noConflict();
+
+            jQuery(document).ready(function () {
+                // steal enter key from search boxes
+                jQuery('.navbar-form input[type=text], .search-box input[type=text]').bind('keypress', function (e) {
+                    if (e.which == 13) {
+                        document.location.href = 'http://www.teamusa.org/USA-Judo/Search?i=USA-Judo&q=' + jQuery(this).val();
+                        e.preventDefault();
+                    }
+                });
+
+                // steal click from buttons (related to the above)
+                jQuery('.navbar-form input[type=image], .search-box input[type=image]').bind('click', function (e) {
+                    document.location.href = 'http://www.teamusa.org/USA-Judo/Search?i=USA-Judo&q=' + jQuery(this).prev('input[type=text]').val();
+                    e.preventDefault();
+                });
+            });
+        </script>
+    </nav>
+</div>    <script src="/Scripts/main/header.js"></script>
+</div>
+        </div>
+
+        <div id="content" class="row">
+            <div class="content-area clearfix">
+    <ul class="breadcrumb ngb-breadcrumb">
+
+                <li id="liItem">
+                    <a href="http://www.teamusa.org/USA-Judo">
+                        USA Judo
+                    </a>
+                </li>
+                <li id="liItem">
+                    Calendar
+                </li>
+    </ul>
+
+                
+
+<div class="content-area-container">
+  <div class='ad' style="overflow: hidden; width: 100%;">
+    
+</div>
+
+<style type="text/css">
+    div#eventlist {
+        padding: 16px;
+    }
+
+        div#eventlist div.eventlistitem table {
+            width: 100%;
+        }
+
+            div#eventlist div.eventlistitem table tr td {
+                vertical-align: top;
+                padding: 0 8px;
+            }
+
+                div#eventlist div.eventlistitem table tr td.daterange {
+                    width: 125px;
+                }
+
+            div#eventlist div.eventlistitem table tr:first-child td:first-child {
+                padding: 0;
+            }
+
+            div#eventlist div.eventlistitem table tr td div {
+                margin-bottom: 4px;
+            }
+
+                div#eventlist div.eventlistitem table tr td div.eventtypes {
+                    float: right;
+                    font-style: italic;
+                }
+
+            div#eventlist div.eventlistitem table a, div#eventlist div.eventlistitem table div.title span {
+                line-height: normal;
+                font-size: 16px;
+                font-weight: bold;
+            }
+
+        div#eventlist div.eventlistitem div.eventlistitemtext a {
+            font-size: 12px;
+        }
+
+    div#results {
+        padding: 16px;
+        margin-bottom: 8px;
+        font-weight: bold;
+        font-size: 16px;
+    }
+
+    span.comma:last-child {
+        display: none;
+    }
+</style>
+
+    <div class="content-area no-padding">
+        <table style="width: 100%">
+            <tr>
+                <td style="width: 235px" valign="top">
+<div id="event-search-filter">
+<form action="/USA-Judo/Events" method="get">    <div id="EventSearchFilterPanel">
+        <h3 id="event-search-filter-title">SEARCH FOR AN EVENT</h3>
+
+        <div class="search-section" style="border-bottom: none;">
+            <label>Event Title</label>
+            <input class="long" id="SearchText" name="SearchText" type="text" value="" />
+        </div>
+
+        <div>  
+
+            <div id="divEventTypes" class="search-section">
+               
+                <div>
+                    <div id="EventTypeTable" class="EventTypeContainer">
+                        
+                        <table style="table-layout: fixed; width: 100%; padding: 0;">
+
+                                    <tr>
+                                        <td class="event-search-filter-checkbox">
+                                           
+                                            <input id="EventTypes4ef6a53f-ce73-41ab-b21f-ee5424760c26"
+                                        type="checkbox" 
+                                        name="SelectedEventTypes"
+                                        value="4ef6a53f-ce73-41ab-b21f-ee5424760c26"
+                                        
+                                                style="display:inline; float:left;"
+                                        />
+        
+                                          
+                                                <div style="float: left; margin-top: 1px;">Brown Belt</div>
+
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="event-search-filter-checkbox">
+                                           
+                                            <input id="EventTypes6072a347-484f-452d-8ef2-e6292d648a1f"
+                                        type="checkbox" 
+                                        name="SelectedEventTypes"
+                                        value="6072a347-484f-452d-8ef2-e6292d648a1f"
+                                        
+                                                style="display:inline; float:left;"
+                                        />
+        
+                                          
+                                                <div style="float: left; margin-top: 1px;">Coaches</div>
+
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="event-search-filter-checkbox">
+                                           
+                                            <input id="EventTypes6320fe5f-27b1-4e34-8044-5d24db579cf4"
+                                        type="checkbox" 
+                                        name="SelectedEventTypes"
+                                        value="6320fe5f-27b1-4e34-8044-5d24db579cf4"
+                                        
+                                                style="display:inline; float:left;"
+                                        />
+        
+                                          
+                                                <div style="float: left; margin-top: 1px;">Collegiate</div>
+
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="event-search-filter-checkbox">
+                                           
+                                            <input id="EventTypes4df60ac8-5592-416a-add9-afd901423794"
+                                        type="checkbox" 
+                                        name="SelectedEventTypes"
+                                        value="4df60ac8-5592-416a-add9-afd901423794"
+                                        
+                                                style="display:inline; float:left;"
+                                        />
+        
+                                          
+                                                <div style="float: left; margin-top: 1px;">Juniors</div>
+
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="event-search-filter-checkbox">
+                                           
+                                            <input id="EventTypes5779b502-4883-4d8a-907f-2853302b2672"
+                                        type="checkbox" 
+                                        name="SelectedEventTypes"
+                                        value="5779b502-4883-4d8a-907f-2853302b2672"
+                                        
+                                                style="display:inline; float:left;"
+                                        />
+        
+                                          
+                                                <div style="float: left; margin-top: 1px;">Kata</div>
+
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="event-search-filter-checkbox">
+                                           
+                                            <input id="EventTypes23984b00-b525-4b55-a92b-d3ad5fb2790e"
+                                        type="checkbox" 
+                                        name="SelectedEventTypes"
+                                        value="23984b00-b525-4b55-a92b-d3ad5fb2790e"
+                                        
+                                                style="display:inline; float:left;"
+                                        />
+        
+                                          
+                                                <div style="float: left; margin-top: 1px;">Masters</div>
+
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="event-search-filter-checkbox">
+                                           
+                                            <input id="EventTypesf1108540-f853-41ce-8fff-479d592195f8"
+                                        type="checkbox" 
+                                        name="SelectedEventTypes"
+                                        value="f1108540-f853-41ce-8fff-479d592195f8"
+                                        
+                                                style="display:inline; float:left;"
+                                        />
+        
+                                          
+                                                <div style="float: left; margin-top: 1px;">Men Only</div>
+
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="event-search-filter-checkbox">
+                                           
+                                            <input id="EventTypesad8fa30f-be9a-489b-be67-c23b7042c0f1"
+                                        type="checkbox" 
+                                        name="SelectedEventTypes"
+                                        value="ad8fa30f-be9a-489b-be67-c23b7042c0f1"
+                                        
+                                                style="display:inline; float:left;"
+                                        />
+        
+                                          
+                                                <div style="float: left; margin-top: 1px;">Military</div>
+
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="event-search-filter-checkbox">
+                                           
+                                            <input id="EventTypes580c6fc8-1c02-49a1-9e4f-043bc99e0319"
+                                        type="checkbox" 
+                                        name="SelectedEventTypes"
+                                        value="580c6fc8-1c02-49a1-9e4f-043bc99e0319"
+                                        
+                                                style="display:inline; float:left;"
+                                        />
+        
+                                          
+                                                <div style="float: left; margin-top: 1px;">Military VI</div>
+
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="event-search-filter-checkbox">
+                                           
+                                            <input id="EventTypes6a6cc07c-3422-48ae-8496-a8419464582a"
+                                        type="checkbox" 
+                                        name="SelectedEventTypes"
+                                        value="6a6cc07c-3422-48ae-8496-a8419464582a"
+                                        
+                                                style="display:inline; float:left;"
+                                        />
+        
+                                          
+                                                <div style="float: left; margin-top: 1px;">Novice</div>
+
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="event-search-filter-checkbox">
+                                           
+                                            <input id="EventTypesc9663fda-d84f-4848-93b1-988f98aecc2a"
+                                        type="checkbox" 
+                                        name="SelectedEventTypes"
+                                        value="c9663fda-d84f-4848-93b1-988f98aecc2a"
+                                        
+                                                style="display:inline; float:left;"
+                                        />
+        
+                                          
+                                                <div style="float: left; margin-top: 1px;">Paralympics</div>
+
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="event-search-filter-checkbox">
+                                           
+                                            <input id="EventTypes0a5da8a2-92c6-4274-83ab-d390f08c9a44"
+                                        type="checkbox" 
+                                        name="SelectedEventTypes"
+                                        value="0a5da8a2-92c6-4274-83ab-d390f08c9a44"
+                                        
+                                                style="display:inline; float:left;"
+                                        />
+        
+                                          
+                                                <div style="float: left; margin-top: 1px;">Points Event</div>
+
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="event-search-filter-checkbox">
+                                           
+                                            <input id="EventTypesbaf6bd4d-a8aa-4a25-8310-04e7f4032586"
+                                        type="checkbox" 
+                                        name="SelectedEventTypes"
+                                        value="baf6bd4d-a8aa-4a25-8310-04e7f4032586"
+                                        
+                                                style="display:inline; float:left;"
+                                        />
+        
+                                          
+                                                <div style="float: left; margin-top: 1px;">Referee</div>
+
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="event-search-filter-checkbox">
+                                           
+                                            <input id="EventTypes365a46d9-be58-4481-b8bc-3141b2bdb63b"
+                                        type="checkbox" 
+                                        name="SelectedEventTypes"
+                                        value="365a46d9-be58-4481-b8bc-3141b2bdb63b"
+                                        
+                                                style="display:inline; float:left;"
+                                        />
+        
+                                          
+                                                <div style="float: left; margin-top: 1px;">Seniors</div>
+
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="event-search-filter-checkbox">
+                                           
+                                            <input id="EventTypes22a54a59-ecf2-4293-9b8f-a5c4b6a4ccdf"
+                                        type="checkbox" 
+                                        name="SelectedEventTypes"
+                                        value="22a54a59-ecf2-4293-9b8f-a5c4b6a4ccdf"
+                                        
+                                                style="display:inline; float:left;"
+                                        />
+        
+                                          
+                                                <div style="float: left; margin-top: 1px;">VI</div>
+
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="event-search-filter-checkbox">
+                                           
+                                            <input id="EventTypes514d855f-23b4-4b9c-a03c-7fb7ceeb101f"
+                                        type="checkbox" 
+                                        name="SelectedEventTypes"
+                                        value="514d855f-23b4-4b9c-a03c-7fb7ceeb101f"
+                                        
+                                                style="display:inline; float:left;"
+                                        />
+        
+                                          
+                                                <div style="float: left; margin-top: 1px;">Women Only</div>
+
+                                        </td>
+                                    </tr>
+                           
+                        </table>
+                    </div>
+                    <a id="btnEventTypeExpandCollapse" href="thiswillneverfire.com" style="margin-left: 6px; margin-top: 4px;">More...</a>
+                </div>
+             
+            </div>
+
+            <div class="search-section">
+                <label>Date Range</label>
+                <input type="text" id="startDate" name="startDate" class="short" value="" />
+                <b>to</b>
+                <input type="text" id="endDate" name="endDate" class="short" value="" />
+            </div>
+
+            <div class="search-section">
+                <label>Location</label>
+<select class="long ddl" id="RegionId" name="RegionId"><option value="">Region</option>
+<option value="{2AAC8E54-5909-4FD1-BA36-E1CCFC5BD6E8}">Midwest - East North Central</option>
+<option value="{2B8AA3E8-C94F-4DFF-A08C-0F64416CA17D}">Midwest - West Nort Central</option>
+<option value="{19A18E98-2770-4B8A-AA68-980280784CB7}">Northeast - Middle Atlantic</option>
+<option value="{AE53511A-818F-4E2D-AEF5-C39502CB4374}">Northeast - New England</option>
+<option value="{D9226794-A077-4069-A0FF-3BD222A05CE8}">South - East South Atlantic</option>
+<option value="{70E03D4C-9698-4709-BBFC-6C1E8634AC18}">South - East South Central</option>
+<option value="{2BB1489D-910D-4082-97A0-DAC92D1FBD0D}">South - West South Central</option>
+<option value="{1C70236D-34BB-410E-AC69-2341C8CD6F80}">West - Mountain</option>
+<option value="{58C03DFE-713C-48C8-8BDA-251AE3259670}">West - Pacific</option>
+</select>
+
+        <select class="long ddl" id="StateId" name="StateId"><option value="">State</option>
+<option value="{86DD566F-EDAE-4354-963E-718D18E68B3F}">Alabama</option>
+<option value="{EAFC006C-6D8A-42DB-971C-E544DECF3C28}">Alaska</option>
+<option value="{D074A866-3C44-41D2-AC52-28053F3FF64A}">Arizona</option>
+<option value="{6A70E29B-284C-4308-A93B-7E0966E54AC5}">Arkansas</option>
+<option value="{84C7220A-EA7A-41E9-A9BD-97EEF055C734}">California</option>
+<option value="{5FCDA48F-B032-4770-AE45-79FBF391D27C}">Colorado</option>
+<option value="{BAF8BC44-68A8-4438-B442-68E829757FCB}">Connecticut</option>
+<option value="{3F8682C3-CC7E-4152-807E-21BEA8AE7B1D}">Delaware</option>
+<option value="{0D7C4DC3-5F8F-4876-A349-9DB4AE64FB72}">District of Columbia</option>
+<option value="{95BB6AFC-C969-4FAE-A59D-ED93F413861E}">Florida</option>
+<option value="{8ED27E4E-8E45-48B9-8E33-F4D86419D4BE}">Georgia</option>
+<option value="{6D41CD62-FC0D-488F-A316-110D0800B06F}">Hawaii</option>
+<option value="{0FA551B7-FE0C-4CC3-B47B-9EBFAC77B33F}">Idaho</option>
+<option value="{64BE460A-B5CD-437D-99DE-076E64D96D30}">Illinois</option>
+<option value="{22E09A3C-E601-4773-8F4D-CBEECC94F47A}">Indiana</option>
+<option value="{B1BD94E2-B394-4F59-B676-8E1B59542C58}">Iowa</option>
+<option value="{C081D699-E1BF-4C7A-900E-B10B4638BA76}">Kansas</option>
+<option value="{2C3343EC-9D32-4E1A-B1D1-565C8D9CCE5B}">Kentucky</option>
+<option value="{B46C649E-4FAC-4D66-8848-4198E893D0E9}">Louisiana</option>
+<option value="{C16DAF79-AF94-43AC-A184-4ABF79E2328D}">Maine</option>
+<option value="{DE9CEBE5-C2E9-4BA5-96B9-A795AEFD860D}">Maryland</option>
+<option value="{EAB24B55-FC0A-44A9-B594-2AC1AD6DF458}">Massachusetts</option>
+<option value="{2977E540-0C32-4417-87B7-BE8C742F6E58}">Michigan</option>
+<option value="{8F433D0C-B8ED-4044-89C9-B74F3384952E}">Minnesota</option>
+<option value="{DEA3EA45-C696-4369-950A-445EFF41A88A}">Mississippi</option>
+<option value="{09746816-99A0-4297-8594-E43EE58A1D08}">Missouri</option>
+<option value="{AD412E40-011B-4CE8-BE74-07304E4F89AE}">Montana</option>
+<option value="{72D50854-34D8-4561-AAA6-52CF6B61105B}">Nebraska</option>
+<option value="{A8B7FFBD-EDE0-4226-8B17-444C88502C77}">Nevada</option>
+<option value="{66810BBA-94B7-4A01-B52D-D70C94834D58}">New Hampshire</option>
+<option value="{C13B9DD0-C9BC-46A4-8A7E-DB712FBE030D}">New Jersey</option>
+<option value="{F9EB2310-43D6-49D8-AD07-C575E462DAD4}">New Mexico</option>
+<option value="{81DCC843-D642-424F-AAE1-1A815AF575BD}">New York</option>
+<option value="{EB43FC57-A1A5-4EF7-A129-B7C3B5930F2D}">North Carolina</option>
+<option value="{EE4C5FC1-37A8-46E4-BE4C-55FE72A78923}">North Dakota</option>
+<option value="{B42CBE51-1B47-4CFA-80EC-D1EB60CE5A4A}">Ohio</option>
+<option value="{362DBE85-BB31-48F1-A90D-433868CEDDAA}">Oklahoma</option>
+<option value="{FC2AD94A-207D-48C5-BC34-749C6ACDE6A3}">Oregon</option>
+<option value="{C17113C8-FA5A-4FEC-865E-5F6E650EE036}">Pennsylvania</option>
+<option value="{9766A261-3FDB-4521-8235-8CAA1E7C784C}">Rhode Island</option>
+<option value="{4436F67B-1511-4E7B-A17F-62811BCC8DD5}">South Carolina</option>
+<option value="{E7E827BC-DC00-4B59-BD5C-C1ED77D56651}">South Dakota</option>
+<option value="{9DCFD76C-9C0B-430D-9F08-681489BA2DD6}">Tennessee</option>
+<option value="{65B14893-D918-499E-B984-8E41C9EDDEA2}">Texas</option>
+<option value="{BE112E27-D1BD-4958-8EAC-6C78788055C8}">Utah</option>
+<option value="{DA9B748B-B48B-486B-A5AB-99BA2C98D8EA}">Vermont</option>
+<option value="{4E9FA1E5-1B03-4686-A93D-D532F5BFB47A}">Virginia</option>
+<option value="{6C0566CC-969C-43D8-B12B-C1FE27FAAAEE}">Washington</option>
+<option value="{5EDA2719-2E77-4417-9EC0-9C6E3B129E57}">Washington D.C.</option>
+<option value="{7E14B82B-B10E-4334-98CD-6139A1122295}">West Virginia</option>
+<option value="{22332358-F2AC-4DD9-BF06-7B42EFF9AB2E}">Wisconsin</option>
+<option value="{E3942C92-CA4E-483B-8207-D14E6368942E}">Wyoming</option>
+</select>
+                
+        <select class="long ddl" id="CountryId" name="CountryId"><option value="">Country</option>
+<option value="{7C85B8EC-A0BC-488E-BDDF-1872E19B8CBE}">Africa</option>
+<option value="{2DC90505-D21E-47FE-8789-CA9AC27B8972}">Albania</option>
+<option value="{275CCD75-1FD2-4C91-B92E-7AECB8D3BF4B}">Argentina</option>
+<option value="{CDE40468-9A9B-4B12-BF91-4CA9089AAA9D}">Argentina</option>
+<option value="{BC0FA0EF-FEA3-44CF-884F-EC0CE6EC9A86}">Australia</option>
+<option value="{58E04E5C-5A61-4560-8F2F-D4659256CBBD}">Australia</option>
+<option value="{37B8B302-5FC8-4814-ADA1-2BC988D54667}">Austria</option>
+<option value="{2EECCD05-F36F-48DD-937E-ECA3972C2D83}">Azerbaijan</option>
+<option value="{4F1DC077-6795-4225-931D-6E289FD89227}">Bahamas</option>
+<option value="{8DC94316-2B03-44C5-A44C-35109EB269A2}">Barbados</option>
+<option value="{D9FD3F24-0D42-49AD-9A43-997C72288B32}">Belarus</option>
+<option value="{52A94FFD-84B8-4E61-9644-FA2E6FC5B5F3}">Belgium</option>
+<option value="{6B005D9D-430A-4793-961C-1F36F5AEAC8A}">Brazil</option>
+<option value="{FA5C2AA7-4B0A-4291-B63D-4177FD24052B}">Bulgaria</option>
+<option value="{701069ED-B8A5-4829-9FDC-2B5C6294A092}">Canada</option>
+<option value="{E346E55E-E38C-4104-A1CA-9CAEDECF779B}">Chile</option>
+<option value="{92707372-9080-4B5B-87B9-2FBFC3F86A8C}">China</option>
+<option value="{238EE722-6E88-4F68-ACE5-8F69F73794A2}">Chinese Taipei</option>
+<option value="{70CC3169-A615-4350-B1D2-3479F1F538B6}">Colombia</option>
+<option value="{E94A18EA-8E0B-4D14-A2D9-7E5EDB6DC178}">Costa Rica</option>
+<option value="{46AE896A-E656-4CBC-8604-40848051B786}">Croatia</option>
+<option value="{748BFF27-0BEE-425B-BA72-EB1B2AA0449F}">Cuba</option>
+<option value="{A053B738-23D4-43A6-A329-7E9CCF1B66C7}">Czech Republic</option>
+<option value="{EC0CCDC4-DCE6-4ACD-BF06-2D4FDD14039E}">Denmark</option>
+<option value="{8149D0E5-1D18-4DB2-961C-E35FF710907E}">Dominican Republic</option>
+<option value="{D767E26A-6765-4B6E-B162-C20F101BFB00}">Ecuador</option>
+<option value="{1C937CAA-D1F4-4F43-A87D-ECAD6C0280D9}">Egypt</option>
+<option value="{8E3157A9-74E3-4AC5-8973-834AAEC76709}">El Salvador</option>
+<option value="{0966F52C-BB2E-4827-BE6A-389B70EC68BC}">Estonia</option>
+<option value="{74D05ADA-9032-40ED-BA70-2B8F92969EFB}">Finland</option>
+<option value="{A8A2AA5F-FCA8-4E59-BEE7-34F1BD980652}">France</option>
+<option value="{10B1C9E7-C0E9-4CC3-8212-9359B4D02229}">Georgia</option>
+<option value="{9D19ED92-9E3C-4D29-A8E2-07B092F6183D}">Germany</option>
+<option value="{3FEA3B71-461E-4E13-9338-2A98D423E2E8}">Great Britain</option>
+<option value="{99D98059-1026-4741-A58F-2FF30495187E}">Greece</option>
+<option value="{7F917348-0401-4987-B64C-BAC75AAAA22A}">Guatemala</option>
+<option value="{AC22A897-15F4-4AAB-8096-D46D3535DADD}">Hungary</option>
+<option value="{FD1145DC-B1C7-484D-82E9-EAFE4AF38CA5}">Ireland</option>
+<option value="{BF23AF74-2D97-434D-9206-0E9E5E092822}">Israel</option>
+<option value="{4C28417F-3E7E-4520-9FB5-A708AD5AF9E1}">Italy</option>
+<option value="{59E43C83-5305-4486-8EE8-4CE42AFF53FA}">Jamaica</option>
+<option value="{493C85DE-702E-4AFB-AFEE-211794D1E0FE}">Japan</option>
+<option value="{E8212B6B-EDF4-4526-A06C-0D54041E4865}">Kazakhstan</option>
+<option value="{4B0C4045-44F5-40C5-87CD-0B55391C8890}">Kenya</option>
+<option value="{C8336679-9E8C-4087-BA7D-4764D4E23001}">Korea</option>
+<option value="{DE49D6D9-D30D-4AE9-8244-D1EEBF272B7E}">Latvia</option>
+<option value="{689EE644-C03E-40B6-BC4D-6D1AA2BD72A3}">Luxemburg</option>
+<option value="{FBBFACD1-A59E-4018-A9EC-F5534E55F6C3}">Mexico</option>
+<option value="{CA234048-387F-4044-97F2-C0EFC77AC1CE}">Mongolia</option>
+<option value="{1E02C4BD-D7E9-4097-BA33-D73B2E8AC357}">Morocco</option>
+<option value="{296C8AE6-8D46-44D4-A701-0BB2FA2B2838}">Netherlands</option>
+<option value="{A9FC283B-1E16-4D36-BDF7-DBBDE7218D76}">Norway</option>
+<option value="{3F4A835F-021F-43EB-B183-C217E061458F}">Ontario Canada</option>
+<option value="{0C95800E-2493-4C57-9A94-F25487082D21}">Panama</option>
+<option value="{913608A7-46DB-4C08-AB11-A4C90C589B71}">Poland</option>
+<option value="{169DB3E6-5B53-48EB-B942-99618EEACBDC}">Poland</option>
+<option value="{F76519BB-206F-4836-A89C-3574D24DEC84}">Portugal</option>
+<option value="{390A0FF1-A4DD-461E-B379-E6EE77960028}">Puerto Rico</option>
+<option value="{7C116486-E977-41BD-934F-739B3F01DC05}">Qatar</option>
+<option value="{067F3D7D-CEEE-4692-AD8F-13D8EF474F4A}">Republic of Mauritius</option>
+<option value="{80B6B6B7-39BC-4D90-BE71-A25D3CEFA352}">Romania</option>
+<option value="{4B16085F-16FD-4EC6-A534-8077631ABB13}">Russia</option>
+<option value="{BDCA87C8-BFC2-42A3-9926-67257EB7E7A0}">Samoa</option>
+<option value="{7817B828-D38D-446F-9BA3-44555C2DCC82}">Slovakia</option>
+<option value="{B8DD1306-7606-42E7-A3B8-E001B6A42655}">Slovenia</option>
+<option value="{C6C3AA71-4256-4870-9866-D1CEB9281F1D}">South Africa</option>
+<option value="{0E1D5798-7E2C-4176-BB59-01A7F9578596}">South Korea</option>
+<option value="{78853824-1A0E-40F4-9DBE-B4C276ECA814}">Spain</option>
+<option value="{07266201-F5F2-4414-A957-75D81ED1E6B0}">Sweden</option>
+<option value="{C441ED76-440E-40DB-8D6F-166A7AA5DED8}">Switzerland</option>
+<option value="{EC37C515-6DA5-4C84-B0BF-AF9000ADAB15}">Taiwan</option>
+<option value="{1D201164-207B-4576-A8DE-7D573871CC33}">Thailand</option>
+<option value="{BA336337-43C4-401D-89A2-E159A5F11976}">Thailand</option>
+<option value="{D92B4F12-785E-417B-9E8C-76F3D43FA1C4}">Tunisia</option>
+<option value="{F3D24147-CE93-4EFE-A947-1D3C0EC5B34C}">Turkey</option>
+<option value="{FD88195C-C29E-4E3A-92BC-34D678A1B990}">Ukraine</option>
+<option value="{D4AA49E0-A142-4B87-AF5E-C25730DC25E0}">United Arab Emirates</option>
+<option value="{AF165CCC-FC66-4703-9728-3355425081CE}">United States</option>
+<option value="{73F2DB13-CC01-4C43-A02F-51761AE68DE3}">United States of America</option>
+<option value="{C552FDAB-02D3-448B-9939-7AAEB1E55D05}">Uruguay</option>
+<option value="{7B1FEAA4-92EE-4C9D-9995-0870302F3C90}">Uzbekistan</option>
+<option value="{D9949942-6A3E-4E4B-8D62-56AD604751CF}">Vietnam</option>
+</select>
+                
+
+            </div>
+
+            <div class="search-section" style="border-bottom: none;">
+                <input type="image" id="eventSearchButton" src="/content/images/buttons/search-button.png" style="margin-left: 8px"/>
+                <input type="image" id="clear" src="/content/images/buttons/clear-button.png" />
+            </div>
+
+        </div>
+
+
+    </div>
+</form></div>
+
+<script type="text/javascript">
+
+    jQuery.noConflict();
+
+    (function ($) {
+
+        //NOTE: Initial AJAX code was developed but not implemented.  Look at file history  to see
+        //previous code (changeset=942)
+
+        $("#event-search-filter").keypress(function (e) {
+            if (e.which == 13) {
+                e.preventDefault();
+                $("#eventSearchButton").click();
+            }
+        });
+
+
+
+        $("#clear").click(function (e) {
+            e.preventDefault();
+            resetFilters();
+        });
+
+       
+        $.datepicker.setDefaults({
+            showAnim: "drop"
+        });
+        
+        $("#startDate").datepicker({
+            defaultDate: "+1w",
+            changeMonth: true,
+            numberOfMonths: 1
+        });
+
+        $("#endDate").datepicker({
+            defaultDate: "+1w",
+            changeMonth: true,
+            numberOfMonths: 1
+        });
+        
+        function resetFilters() {
+            var url = window.location.protocol + '//' + window.location.host + window.location.pathname;
+            window.location = url;
+        }
+
+        function fetchData(callback) { }
+
+
+        function loadData() { }
+
+    })(jQuery);
+
+</script>
+                </td>
+
+                <td valign="top" class="content-area no-padding event">
+                    <div class="thumb-row results accordion">
+                    </div>
+
+
+
+                    <div class="pager"><a href="/USA-Judo/Events?pg=8" class="pager-button pager-previous">Previous</a><a href="/USA-Judo/Events" class="pager-button">1</a><a href="/USA-Judo/Events?pg=2" class="pager-button">2</a><span class="">...</span><a href="/USA-Judo/Events?pg=4" class="pager-button">4</a><a href="/USA-Judo/Events?pg=5" class="pager-button">5</a><a href="/USA-Judo/Events?pg=6" class="pager-button">6</a><a href="/USA-Judo/Events?pg=7" class="pager-button">7</a><a href="/USA-Judo/Events?pg=8" class="pager-button">8</a><a href="/USA-Judo/Events?pg=10" class="pager-button pager-next">Next</a></div>
+
+                </td>
+
+            </tr>
+        </table>
+    </div><div class='ad' style="overflow: hidden; width: 100%;">
+    
+</div>
+
+</div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- Reveal Bar Placeholder -->
+    
+    <!-- // Reveal Bar Placeholder -->
+
+    <footer class="center-block">
+        
+<div class="container">
+    <div class="row">
+        <div class="col-xs-2">
+            <ul class="footer-links">
+
+                <li class="footer-header">
+                    
+                </li>
+             
+                    <li>
+                        <a target="" href="http://www.teamusa.org/USA-Judo/Membership">
+                            Membership
+                        </a>
+                    </li>
+                    <li>
+                        <a target="" href="http://www.teamusa.org/USA-Judo/Membership/Weekly-Eletter">
+                            Weekly E-letter
+                        </a>
+                    </li>
+                    <li>
+                        <a target="" href="http://www.teamusa.org/USA-Judo/Video">
+                            Video
+                        </a>
+                    </li>
+            </ul>
+        </div>
+        <div class="col-xs-2">
+            <ul class="footer-links">
+
+                <li class="footer-header">
+                    
+                </li>
+               
+                    <li>
+                        <a target="" href="http://www.teamusa.org/USA-Judo/About-Us">
+                            About
+                        </a>
+                    </li>
+                    <li>
+                        <a target="" href="http://www.teamusa.org/USA-Judo/About-Us/Contact-us">
+                            Contact us
+                        </a>
+                    </li>
+                    <li>
+                        <a target="" href="http://www.teamusa.org/USA-Judo/About-Us/Our-Proud-Sponsors">
+                            Our Proud Sponsors
+                        </a>
+                    </li>
+                    <li>
+                        <a target="" href="http://www.teamusa.org/USA-Judo/Mobile-Site">
+                            Mobile Site
+                        </a>
+                    </li>
+            </ul>
+        </div>
+        <div class="col-xs-2">
+            <ul class="footer-links">
+   
+                <li class="footer-header">
+                    
+                </li>
+                
+                    <li>
+                        <a target="" href="http://www.teamusa.org/Footer/Terms-and-Conditions">
+                            Terms and Conditions
+                        </a>
+                    </li>
+                    <li>
+                        <a target="" href="http://www.teamusa.org/Footer/Privacy-Policy">
+                            Privacy Policy
+                        </a>
+                    </li>
+            </ul>
+        </div>
+        <div class="col-xs-6">
+            <p class="small pull-right copyright-info">&copy;2015 United States Olympic Committee. All Rights Reserved.</p>
+        </div>
+    </div>
+</div>
+
+    </footer>
+
+    <!-- Quantcast Tag -->
+    <script type="text/javascript">
+    _qevents.push({
+        qacct: "p-fa_jnF-p0URt3"  , labels: "_fp.channel.USA Judo,_fp.event.Team - NGB"     });
+    </script>
+    <noscript>
+        <div style="display:none;">
+            <img src="//pixel.quantserve.com/pixel/p-fa_jnF-p0URt3.gif?labels=_fp.channel.USA+Judo%2c_fp.event.Team+-+NGB" border="0" height="1" width="1" alt="Quantcast" />
+        </div>
+    </noscript>
+    <!-- End Quantcast tag -->
+
+
+    <!--DoubleClick Ad-->
+    <!-- Judo/judo_Homepage_Overlay -->
+<script type="text/javascript">
+  var ord = window.ord || Math.floor(Math.random() * 1e16);
+  document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N5572/adj/Judo/judo_Homepage_Overlay;dcopt=ist;sz=860x475;ord=' + ord + '?"><\/script>');
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/N5572/jump/Judo/judo_Homepage_Overlay;dcopt=ist;sz=860x475;ord=[timestamp]?">
+<img src="http://ad.doubleclick.net/N5572/ad/Judo/judo_Homepage_Overlay;dcopt=ist;sz=860x475;ord=[timestamp]?" width="860" height="475" />
+</a>
+</noscript>
+
+
+    <!-- Click Dimensions -->
+    
+    <!--// Click Dimensions -->
+    <!-- Site Catalyst -->
+    
+
+<!-- SiteCatalyst code version: H.24.3.
+  Copyright 1996-2012 Adobe, Inc. All Rights Reserved
+  More info available at http://www.omniture.com -->
+<script src="/scripts/main/s_code.js" type="text/javascript"></script>
+<script type="text/javascript"><!--
+  /* You may give each page an identifying name, server, and channel on
+  the next lines. */
+  s.pageName = "";
+  s.server = "";
+  s.channel = "";
+  s.pageType = "";
+  s.prop1 = "";
+  s.prop2 = "";
+  s.prop3 = "";
+  s.prop4 = "";
+  s.prop5 = "";
+  s.prop11 = document.location.href;
+  /* Conversion Variables */
+  s.campaign = "";
+  s.state = "";
+  s.zip = "";
+  s.products = "";
+  s.purchaseID = "";
+  s.eVar1 = "";
+  s.eVar2 = "";
+  s.eVar3 = "";
+  s.eVar4 = "";
+  s.eVar5 = "";
+
+  s.channel = (document.location.pathname.split('/')[1] == 'en' ? document.location.pathname.split('/')[2].replace('.aspx', '') : document.location.pathname.split('/')[1].replace('.aspx', '')) || 'Home';
+  s.pageName = jQuery.trim(jQuery('title').html());
+
+
+  /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+  var s_code = s.t(); if (s_code) document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+  if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-')
+  //--></script>
+<noscript>
+  <img src="https://usoc.122.2o7.net/b/ss/usocmainsite/1/H.24.3--NS/0"
+    height="1" width="1" border="0" alt="" />
+</noscript>
+<!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.24.3. -->
+<script src="/scripts/main/analytics.js" type="text/javascript"></script>
+
+    <!--// Site Catalyst -->
+    <!-- Crazy Egg -->
+    
+    <!--// Crazy Egg -->
+    <script src="/Scripts/vendor/bootstrap/bootstrap.min.js"></script>
+<script src="/Scripts/vendor/bootstrap/bootstrap-accessibility.min.js"></script>
+
+
+</body>
+</html>
+
+
