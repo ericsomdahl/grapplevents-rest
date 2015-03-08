@@ -4,9 +4,6 @@
             [grapplevents-rest.scraper.usa-judo :as usa]
             [grapplevents-rest.scraper.utils :as utils]))
 
-(def ten-results (slurp "test/grapplevents_rest/scraper/10-results.txt"))
-(def two-results (slurp "test/grapplevents_rest/scraper/02-results.txt"))
-
 ;mock a sequence of 12 events, ten in the first request and 2 in the second
 (def get-files (fn [url]
                     (let [idx (Integer/parseInt (re-find #"\d$" url))]
