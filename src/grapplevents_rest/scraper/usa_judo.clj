@@ -1,6 +1,7 @@
 (ns grapplevents-rest.scraper.usa-judo
   (:require [net.cgrand.enlive-html :as html]
             [clojure.core.memoize :as memo]
+            [grapplevents-rest.scraper.common :as common]
             [grapplevents-rest.scraper.utils :as utils]))
 
 ;base url for USA Judo published events
@@ -38,7 +39,27 @@
                 (lazy-seq (get-all-events (inc c))))
           nil))))
 
+(defn add-event-basics
+  "add the basics of this event to the map"
+  [m event]
+  ;the sport for USA Judo is always judo
+  (assoc m
+         :sport (set (list (common/sports :judo)))
+         :org "USA Judo"
+         :org-url "http://www.teamusa.org/USA-Judo"))
 
+(defn add-event-start-date
+  "select the start date from the event"
+  [m event]
+  (let [])
+  )
+
+(defn transform-event
+  "return the standard map of data related to the event"
+  [event]
+  (let [m {}]
+    ((comp add-event-basics) m event)
+    ))
 
 
 

@@ -35,4 +35,12 @@
         (is (= 12 (count all-events)))
         (is (= 12 (count (take 23 all-events)))))))
 
+  (testing "add-event-basics"
+    (let [actual (usa/add-event-basics {} {:sport "curling"})]
+      (is (= true (contains? (actual :sport) "judo")))
+      (is (= 1 (count (actual :sport))))
+      (is (= "USA Judo" (actual :org)))
+      (is (= "http://www.teamusa.org/USA-Judo" (actual :org-url)))
+      ))
+
   )
