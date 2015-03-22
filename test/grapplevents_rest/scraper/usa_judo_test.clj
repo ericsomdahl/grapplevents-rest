@@ -36,11 +36,27 @@
         (is (= 12 (count (take 23 all-events)))))))
 
   (testing "add-event-basics"
-    (let [actual (usa/add-event-basics {} {:sport "curling"})]
-      (is (= true (contains? (actual :sport) "judo")))
-      (is (= 1 (count (actual :sport))))
-      (is (= "USA Judo" (actual :org)))
-      (is (= "http://www.teamusa.org/USA-Judo" (actual :org-url)))
-      ))
+    (with-redefs [utils/fetch-url get-files]
+      (let [an-event (take 1 (usa/get-all-events))
+            actual (usa/add-event-basics an-event {})]
+        (is (= true (contains? (actual :sport) "judo")))
+        (is (= 1 (count (actual :sport))))
+        (is (= "USA Judo" (actual :org)))
+        (is (= "http://www.teamusa.org/USA-Judo" (actual :org-url))))))
 
+  (testing "add-event-start-month"
+    (with-redefs [utils/fetch-url get-files]
+      (let [an-event (take 1 (usa/get-all-events))
+            actual (usa/add-event-start-month an-event {})]
+        (is (= 3 (actual :month))))))
+
+  (testing "add-event-start-date"
+    (with-redefs [utils/fetch-url get-files]
+      (let [an-event (take 1 (usa/get-all-events))
+            actual (usa/add-event-start-day an-event {})]
+        (is (= 7 (actual :start-day)))
+        (is (= 1 (actual :duration)))
+        )
+      (let [])
+      ))
   )

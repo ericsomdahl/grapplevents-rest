@@ -41,24 +41,43 @@
 
 (defn add-event-basics
   "add the basics of this event to the map"
-  [m event]
+  [event m]
   ;the sport for USA Judo is always judo
   (assoc m
          :sport (set (list (common/sports :judo)))
          :org "USA Judo"
          :org-url "http://www.teamusa.org/USA-Judo"))
 
-(defn add-event-start-date
-  "select the start date from the event"
-  [m event]
-  (let [])
-  )
+(defn add-event-start-month
+  "select the start month from the event"
+  [event m]
+  (let [month (-> (html/select event [:div.event-month])
+                  (first)
+                  (html/text)
+                  (utils/resolve-month))]
+    (assoc m :month month)))
+
+(defn add-event-start-day
+  "select the start day from the event"
+  [event m]
+  (let [raw-days (-> (html/select event [:div.num.event-date])
+                     (first)
+                     (html/text))
+        days (re-seq #"\d+" raw-days)
+        start-day (Integer. (first days))
+        end-day (Integer. (last days))
+        duration (inc (- end-day start-day))
+        ]
+    (assoc m :start-day start-day
+           :duration duration)
+    ))
 
 (defn transform-event
   "return the standard map of data related to the event"
   [event]
   (let [m {}]
-    ((comp add-event-basics) m event)
+    ((comp (partial add-event-basics event)
+           (partial add-event-start-month event)) m)
     ))
 
 

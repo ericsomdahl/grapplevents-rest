@@ -51,12 +51,10 @@
                       (re-find #"vemb" m))) 11
       (not-blank? (or (re-find #"d" m)
                       (re-find #"cemb" m))) 12
-
       :else nil
       )
     )
   )
-
 
 (defn resolve-month
   "Normalize the random formatting of month strings to a single standard"
